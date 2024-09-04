@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class classificacaonotas {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Double nota = 0.0;
         Scanner entrada = new Scanner(System.in);
         System.out.println("Digite uma nota: ");
